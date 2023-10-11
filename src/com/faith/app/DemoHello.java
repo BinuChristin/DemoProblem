@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class DemoHello {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		Scanner scan = new Scanner(System.in);
+		// TODaO Auto-generated method stub
+		asfsafsfsafsfafafafasfasfffaScanner scan = new Scanner(System.in);
 		System.out.println("Aleena");
 		System.out.print("Alleena");
 		System.out.println();
